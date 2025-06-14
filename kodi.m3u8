@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://livecdn.zbds.top/logo/CCTV1.png",CCTV1
-http://8.138.7.223/【公众号：榴芒电视】/cctv1.m3u8
+http://116.52.175.3:29999/mgtv/608807420.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV2.png",CCTV2
 http://116.52.175.3:29999/mgtv/624878356.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-id="CCTV3" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视频道", CCTV3
