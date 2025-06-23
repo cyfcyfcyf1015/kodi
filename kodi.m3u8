@@ -1,30 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://livecdn.zbds.top/logo/CCTV1.png",CCTV1
-http://116.52.175.3:29999/mgtv/608807420.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV2.png",CCTV2
-http://116.52.175.3:29999/mgtv/624878356.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-id="CCTV3" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视频道", CCTV3
-http://116.52.175.3:29999/mgtv/624878271.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV4.png",CCTV4
-https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://livecdn.zbds.top/logo/CCTV5+.png",CCTV5+
-http://116.52.175.3:29999/mgtv/641886683.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://livecdn.zbds.top/logo/CCTV6.png",CCTV6
-http://183.166.145.113:8688/rtp/238.1.78.172:7248
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://livecdn.zbds.top/logo/CCTV7.png",CCTV7
-http://117.69.146.91:8686/rtp/238.1.78.239:7784
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://livecdn.zbds.top/logo/CCTV8.png",CCTV8
-http://116.52.175.3:29999/mgtv/624878356.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png",CCTV9
-http://223.14.168.99:8888/mgtv/673168140.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://livecdn.zbds.top/logo/CCTV10.png",CCTV10
-http://xiaoya.crccxw.top:35455/mgtv/624878405.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://livecdn.zbds.top/logo/CCTV11.png",CCTV11
-http://125.119.29.224:8000/udp/233.50.201.11:5140
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV12.png",CCTV12
-http://114.224.114.32:12345/rtp/239.49.8.135:6000
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://livecdn.zbds.top/logo/CCTV13.png",CCTV13
-http://182.46.196.107:12450/udp/239.21.2.3:5002
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",网络实时摄像头
 http://live.adultiptv.net/livecams.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net MILF" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",熟女
